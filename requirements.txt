@@ -12,3 +12,5 @@ pymupdf
 wikipedia
 langchain_huggingface
 sentence-transformers
+faiss-cpu
+langchain_google_genai
