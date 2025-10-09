@@ -15,3 +15,6 @@ sentence-transformers
 faiss-cpu
 langchain_google_genai
 langchain-pinecone
+
+youtube_search
+langchain-tavily
