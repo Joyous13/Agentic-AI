@@ -18,3 +18,6 @@ langchain-pinecone
 
 youtube_search
 langchain-tavily
+langchain
+
+langgraph
